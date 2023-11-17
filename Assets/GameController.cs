@@ -21,7 +21,7 @@ public class GameController : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    // Update is called once per frame;
     void Update()
     {
         if (Input.GetKeyDown("space")) //5 
